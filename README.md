@@ -1,5 +1,5 @@
 # uit_car_racing
-Demo [**here**](https://www.youtube.com/live/yspJeNuXQY8?si=Si7b0kadvPlJWEpt&t=959)
+Demo [**here**](https://www.youtube.com/live/yspJeNuXQY8?si=bMoHcxb2hQ5dz7pk&t=1012)
 
 Download [**weights**](https://uithcm-my.sharepoint.com/:u:/g/personal/20520490_ms_uit_edu_vn/EfFvjaZ4ttBJrWHXUBIXpzQBUUw9npr0g4fT0Vy2J9-LrQ?e=smiucu) to folder **models**
 1. docker build -t cauhamau/uit_car_racing:v2 .
